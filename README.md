@@ -1,7 +1,7 @@
 # Beauty Product Classification Model
 
 ## Overview
-This project focuses on classifying beauty products into categories such as eyelash curler, mascara, sponges, palette, and guasha. The model is trained to differentiate these products based on features extracted from image data (or text data, depending on your approach). It is designed to help automate product categorization for ecommerce websites, inventory management, or product recommendation systems.
+This project focuses on classifying beauty products into categories such as eyelash curler, mascara, sponges, palette, and guasha. The model is trained to differentiate these products based on features extracted from image data. It is designed to help automate product categorization for ecommerce websites, inventory management, or product recommendation systems.
 
 ## Project Structure
 - `data/`: Contains the dataset of beauty product images and labels.
