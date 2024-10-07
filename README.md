@@ -25,4 +25,4 @@ This project focuses on classifying beauty products into categories such as eyel
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/beauty-product-classification.git
+  https://github.com/Maria-Paula-PR/Clasificador-de-imagenes.git
