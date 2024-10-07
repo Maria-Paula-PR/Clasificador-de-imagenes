@@ -24,5 +24,4 @@ This project focuses on classifying beauty products into categories such as eyel
 ## Setup and Installation
 
 1. Clone this repository:
-   ```bash
-  https://github.com/Maria-Paula-PR/Clasificador-de-imagenes.git
+   ```bash ´´´ https://github.com/Maria-Paula-PR/Clasificador-de-imagenes.git
